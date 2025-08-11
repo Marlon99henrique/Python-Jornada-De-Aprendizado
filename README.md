@@ -47,3 +47,18 @@ Aqui, você encontrará **Python do zero ao nível avançado**, com exemplos pr�
 1. **Clone o repositório**
    ```bash
    git clone https://github.com/seu-usuario/python-do-basico-ao-avancado.git
+   ## 🌐 Parte do Meu Portfólio
+Este repositório faz parte de um conjunto de estudos e projetos que abrangem:  
+
+- **Python**
+- **Git & GitHub**
+- **SQL**
+- **Front-end (HTML, CSS, JavaScript)**
+- **Ciência de Dados**
+
+Veja todos os meus projetos no meu perfil: [**Meu GitHub**](https://github.com/seu-usuario)
+## 📬 Contato
+💼 [**LinkedIn**](https://www.linkedin.com/in/seu-perfil)  
+📧 **Email:** seuemail@exemplo.com
+
+
