@@ -1,41 +1,57 @@
-# Python - Do Básico ao Avançado 🐍
+Python — Do Básico ao Avançado 🐍
+📄 Licença: MIT
 
-[![Licença MIT](https://img.shields.io/badge/Licença-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+Este repositório é parte do meu portfólio técnico, que reúne projetos e anotações organizadas para demonstrar e compartilhar o meu conhecimento em diversas áreas da tecnologia.
+Aqui, você encontrará Python do zero ao nível avançado, com exemplos práticos, explicações claras e projetos reais — ideal para quem quer aprender ou revisar conceitos com código limpo e bem estruturado.
 
-Um repositório abrangente para aprender Python, desde conceitos fundamentais até tópicos avançados, com exemplos práticos e projetos.
+Objetivo: Mostrar minha proficiência em Python, ajudando ao mesmo tempo quem deseja aprender de forma organizada e prática.
 
-## 📚 Conteúdo
+📚 Conteúdo
+🏁 Básico
+Introdução ao Python e boas práticas de programação
 
-### 🏁 Básico
-- [x] Introdução ao Python
-- [x] Variáveis e Tipos de Dados
-- [x] Operadores
-- [x] Estruturas de Controle (if, for, while)
-- [x] Funções
-- [x] Listas, Tuplas, Dicionários e Sets
-- [x] Trabalhando com Arquivos
+Variáveis e Tipos de Dados
 
-### 🚀 Intermediário
-- [ ] Programação Orientada a Objetos
-- [ ] Módulos e Pacotes
-- [ ] Tratamento de Exceções
-- [ ] Expressões Lambda
-- [ ] Comprehensions
-- [ ] Trabalhando com APIs
-- [ ] Manipulação de JSON
+Operadores
 
-### 🔥 Avançado
-- [ ] Decoradores
-- [ ] Geradores
-- [ ] Context Managers
-- [ ] Metaprogramação
-- [ ] Programação Assíncrona (asyncio)
-- [ ] Testes (unittest, pytest)
-- [ ] Padrões de Projeto (Design Patterns)
-- [ ] Otimização de Código
+Estruturas de Controle (if, for, while)
 
-## 🛠️ Como Usar
+Funções e Escopo
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/python-do-basico-ao-avancado.git
+Estruturas de Dados (list, tuple, dict, set)
+
+Entrada e Saída de Dados
+
+Leitura e Escrita de Arquivos
+
+🚀 Intermediário
+Programação Orientada a Objetos (POO)
+
+Módulos e Pacotes
+
+Tratamento e Criação de Exceções
+
+Expressões Lambda
+
+List/Dic/Set Comprehensions
+
+Trabalhando com APIs (requisições HTTP)
+
+Manipulação de JSON e CSV
+
+🔥 Avançado
+Decoradores
+
+Geradores
+
+Context Managers
+
+Metaprogramação
+
+Programação Assíncrona (asyncio)
+
+Testes Automatizados (unittest, pytest)
+
+Padrões de Projeto (Design Patterns)
+
+Otimização e Profiling de Código
