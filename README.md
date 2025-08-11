@@ -13,7 +13,7 @@ Aqui, você encontrará **Python do zero ao nível avançado**, com exemplos pr�
 
 ### 🏁 Básico
 - [] Introdução ao Python e boas práticas de programação
-- Variáveis e Tipos de Dados
+- [] Variáveis e Tipos de Dados
 - Operadores
 - Estruturas de Controle (if, for, while)
 - Funções e Escopo
