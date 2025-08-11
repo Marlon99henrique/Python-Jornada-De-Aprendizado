@@ -22,23 +22,23 @@ Aqui, você encontrará **Python do zero ao nível avançado**, com exemplos pr�
 - [ ] Leitura e Escrita de Arquivos
 
 ### 🚀 Intermediário
-- Programação Orientada a Objetos (POO)
-- Módulos e Pacotes
-- Tratamento e Criação de Exceções
-- Expressões Lambda
-- List/Dic/Set Comprehensions
-- Trabalhando com APIs (requisições HTTP)
-- Manipulação de JSON e CSV
+- [ ] Programação Orientada a Objetos (POO)
+- [ ] Módulos e Pacotes
+- [ ] Tratamento e Criação de Exceções
+- [ ] Expressões Lambda
+- [ ] List/Dic/Set Comprehensions
+- [ ] Trabalhando com APIs (requisições HTTP)
+- [ ] Manipulação de JSON e CSV
 
 ### 🔥 Avançado
-- Decoradores
-- Geradores
-- Context Managers
-- Metaprogramação
-- Programação Assíncrona (asyncio)
-- Testes Automatizados (unittest, pytest)
-- Padrões de Projeto (Design Patterns)
-- Otimização e Profiling de Código
+- [ ] Decoradores
+- [ ] Geradores
+- [ ] Context Managers
+- [ ] Metaprogramação
+- [ ] Programação Assíncrona (asyncio)
+- [ ] Testes Automatizados (unittest, pytest)
+- [ ] Padrões de Projeto (Design Patterns)
+- [ ] Otimização e Profiling de Código
 
 ---
 
@@ -47,11 +47,11 @@ Aqui, você encontrará **Python do zero ao nível avançado**, com exemplos pr�
 
 Este repositório faz parte de um conjunto de estudos e projetos que abrangem:
 
-- Ciência de Dados
-- Python
-- Git & GitHub
-- SQL
-- Front-end (HTML, CSS, JavaScript)
+- [x] Ciência de Dados
+- [x] Python
+- [ ] Git & GitHub
+- [ ] SQL
+- [ ] Front-end (HTML, CSS, JavaScript)
 
 
 Veja todos os meus projetos no meu perfil: [Meu GitHub](https://github.com/seu-usuario)
