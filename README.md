@@ -12,14 +12,14 @@ Aqui, você encontrará **Python do zero ao nível avançado**, com exemplos pr�
 ## 📚 Conteúdo
 
 ### 🏁 Básico
-- [] Introdução ao Python e boas práticas de programação
-- [] Variáveis e Tipos de Dados
-- [] Operadores
-- [] Estruturas de Controle (if, for, while)
-- [] Funções e Escopo
-- [] Estruturas de Dados (list, tuple, dict, set)
-- [] Entrada e Saída de Dados
-- [] Leitura e Escrita de Arquivos
+- [ ] Introdução ao Python e boas práticas de programação
+- [ ] Variáveis e Tipos de Dados
+- [ ] Operadores
+- [ ] Estruturas de Controle (if, for, while)
+- [ ] Funções e Escopo
+- [ ] Estruturas de Dados (list, tuple, dict, set)
+- [ ] Entrada e Saída de Dados
+- [ ] Leitura e Escrita de Arquivos
 
 ### 🚀 Intermediário
 - Programação Orientada a Objetos (POO)
