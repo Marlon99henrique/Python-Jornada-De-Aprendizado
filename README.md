@@ -1,4 +1,5 @@
 Python — Do Básico ao Avançado 🐍
+
 📄 Licença: MIT
 
 Este repositório é parte do meu portfólio técnico, que reúne projetos e anotações organizadas para demonstrar e compartilhar o meu conhecimento em diversas áreas da tecnologia.
