@@ -53,7 +53,7 @@ Este repositório faz parte de um conjunto de estudos e projetos que abrangem:
 
 
 
-[Veja todos os meus projetos no meu perfil: Meu GitHub]([https://github.com/seu-usuario](https://github.com/Marlon99henrique))
+[Veja todos os meus projetos no meu perfil: Meu GitHub](https://github.com/Marlon99henrique))
 
 ---
 
