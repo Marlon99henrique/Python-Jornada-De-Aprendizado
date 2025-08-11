@@ -48,6 +48,7 @@ Aqui, você encontrará **Python do zero ao nível avançado**, com exemplos pr�
 Este repositório faz parte de um conjunto de estudos e projetos que abrangem:
 
 [Ciência de Dados](https://github.com/Marlon99henrique/portfolio-ciencia-de-dados.git)
+[Python](https://github.com/Marlon99henrique/Python-Jornada-De-Aprendizado.git)
 
 
 Veja todos os meus projetos no meu perfil: [Meu GitHub](https://github.com/seu-usuario)
