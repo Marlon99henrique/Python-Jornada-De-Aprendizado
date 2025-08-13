@@ -70,7 +70,7 @@ Veja todos os meus projetos no meu perfil:
 
 ## 📬 Contato
 
-💼 [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/marlon-henrique-abdon-silva-8704a8217/)  
+💼 [LinkedIn](https://www.linkedin.com/in/marlon-henrique-abdon-silva-8704a8217/)  
 📧 Email: marlon.99henrique@gmail.com
 
 # ⭐️ Se este projeto te ajudou, considere dar uma estrela no repositório!
