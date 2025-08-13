@@ -21,7 +21,7 @@ Este repositório faz parte do meu portfólio técnico, apresentando uma jornada
 ### 🏁 Básico
 - [Introdução ao Python](01_Basico/01_introducao.ipynb)
 - [Variáveis e Tipos de Dados](01_Basico/02_variaveis_tipos.ipynb)
-- [Estruturas de Controle (if, for, while)](01_Basico/04_estruturas_de_controle(if,for, while).ipynb)
+- [Estruturas de Controle (if, for, while)](01_Basico/04_estruturas_de_controle (if, for, while).ipynb)
 - [Funções e Escopo](01_Basico/06_funcoes.ipynb)
 - [Manipulação de Arquivos](01_Basico/09_arquivos.ipynb)
 
