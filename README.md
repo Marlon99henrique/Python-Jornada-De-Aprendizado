@@ -14,15 +14,7 @@ Este repositório faz parte do meu portfólio técnico, apresentando uma jornada
 - Explicações claras com exemplos práticos
 - Padrões de código Pythonico
 
-### 💻 Conteúdo Prático
-- +50 exemplos executáveis
-- 15+ projetos completos
-- Comparações entre abordagens
 
-### 🛠️ Aplicações Reais
-- Integração com APIs
-- Manipulação de dados
-- Automação de tarefas
 
 ## 📚 Índice de Conteúdos
 
@@ -51,9 +43,9 @@ Este repositório faz parte do meu portfólio técnico, apresentando uma jornada
 ✔️ Exemplos replicáveis e modificáveis  
 
 ## 🛠️ Começando
+# 1. Acesse os arqruivos de cada aula
 
-
-# Clone o repositório
+# 2.Clone o repositórioou baixe 
 git clone https://github.com/Marlon99henrique/Python-Jornada-De-Aprendizado.git
 
 # Acesse o diretório
