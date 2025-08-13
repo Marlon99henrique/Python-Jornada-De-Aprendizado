@@ -15,7 +15,8 @@ Aqui, você encontrará Python do zero ao nível avançado, com exemplos prátic
 - Introdução ao Python e boas práticas de programação  
 - Variáveis e Tipos de Dados  
 - Operadores  
-- Estruturas de Controle (if, for, while)  
+- Estruturas de Controle (if, elif,else)
+- Estruturas de Controle (for, while)
 - Funções e Escopo  
 - Estruturas de Dados (list, tuple, dict, set)  
 - Entrada e Saída de Dados  
