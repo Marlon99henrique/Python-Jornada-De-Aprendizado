@@ -42,13 +42,13 @@ Este repositório faz parte do meu portfólio técnico, apresentando uma jornada
 ✔️ Compatível com Python 3.10+  
 ✔️ Exemplos replicáveis e modificáveis  
 
-## 🛠️ Começando
-# 1. Acesse os arqruivos de cada aula
+# 🛠️ Começando
+### 1. Acesse os arquivos de cada aula
 
-# 2.Clone o repositórioou baixe 
+#### 2.Clone o repositórioou baixe 
 git clone https://github.com/Marlon99henrique/Python-Jornada-De-Aprendizado.git
 
-# Acesse o diretório
+#### Acesse o diretório
 cd Python-Jornada-De-Aprendizado
 
 # Instale as dependências (se necessário)
