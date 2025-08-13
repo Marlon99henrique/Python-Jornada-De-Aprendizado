@@ -11,7 +11,7 @@ Aqui, você encontrará Python do zero ao nível avançado, com exemplos prátic
 
 ## 📚 Conteúdo
 
-### 🏁 Básico
+### [🏁 Básico](https://github.com/Marlon99henrique/Python-Jornada-De-Aprendizado/tree/main/01_Basico)
 - Introdução ao Python e boas práticas de programação  
 - Variáveis e Tipos de Dados  
 - Operadores  
