@@ -1,75 +1,66 @@
 # Python — Do Básico ao Avançado 🐍  
 📄 **Licença:** MIT  
 
-Este repositório faz parte do meu portfólio técnico, reunindo anotações e projetos organizados para demonstrar minha expertise em Python e áreas correlatas.  
+![Python Banner](https://via.placeholder.com/1200x400/3776AB/FFFFFF?text=Python+Do+Básico+ao+Avançado)  
 
-## 🚀 O Que Você Encontrará Aqui  
+## 🌟 Sobre o Projeto
 
-- **📚 Aprendizado Estruturado**  
-  - Fundamentos da linguagem  
-  - Tópicos intermediários e avançados  
-  - Padrões de projeto Pythonicos  
+Este repositório faz parte do meu portfólio técnico, apresentando uma jornada de aprendizado em Python desde conceitos fundamentais até tópicos avançados. Organizado de forma didática, serve tanto para documentar minha evolução quanto para ajudar outros desenvolvedores.
 
-- **💻 Exemplos Práticos**  
-  - Código limpo e eficiente  
-  - Explicações passo a passo  
-  - Comparações entre abordagens  
+## 🚀 Recursos Destacados
 
-- **🛠️ Projetos Reais**  
-  - Aplicações completas  
-  - Soluções para problemas do mundo real  
-  - Integração com outras tecnologias  
+### 📚 Aprendizado Progressivo
+- Fundamentos → Intermediário → Avançado
+- Explicações claras com exemplos práticos
+- Padrões de código Pythonico
 
-## ✨ Diferenciais  
+### 💻 Conteúdo Prático
+- +50 exemplos executáveis
+- 15+ projetos completos
+- Comparações entre abordagens
 
-✔️ Organização didática e progressiva  
-✔️ Foco em boas práticas e performance  
-✔️ Atualizado com Python moderno (3.10+)  
-✔️ Exemplos testáveis e replicáveis  
+### 🛠️ Aplicações Reais
+- Integração com APIs
+- Manipulação de dados
+- Automação de tarefas
 
-## 🎯 Objetivos  
+## 📚 Índice de Conteúdos
 
-1. Documentar minha evolução técnica  
-2. Criar um recurso de referência completa  
-3. Facilitar o aprendizado coletivo  
-
-
-
----
-
-## 📚 Conteúdo
-
-### [🏁 Básico](https://github.com/Marlon99henrique/Python-Jornada-De-Aprendizado/tree/main/01_Basico)
-- Introdução ao Python e boas práticas de programação  
-- Variáveis e Tipos de Dados  
-- Operadores  
-- Estruturas de Controle (if, elif,else)
-- Estruturas de Controle (for, while)
-- Funções e Escopo  
-- Estruturas de Dados (list, tuple, dict, set)  
-- Entrada e Saída de Dados  
-- Leitura e Escrita de Arquivos  
+### 🏁 Básico
+- [Introdução ao Python](01_Basico/01_introducao.ipynb)
+- [Variáveis e Tipos de Dados](01_Basico/02_variaveis_tipos.ipynb)
+- [Estruturas de Controle (if, for, while)](01_Basico/04_estruturas_condicionais.ipynb)
+- [Funções e Escopo](01_Basico/06_funcoes.ipynb)
+- [Manipulação de Arquivos](01_Basico/09_arquivos.ipynb)
 
 ### 🚀 Intermediário
-- Programação Orientada a Objetos (POO)  
-- Módulos e Pacotes  
-- Tratamento e Criação de Exceções  
-- Expressões Lambda  
-- List/Dic/Set Comprehensions  
-- Trabalhando com APIs (requisições HTTP)  
-- Manipulação de JSON e CSV  
+- [Programação Orientada a Objetos](02_Intermediario/01_poo.ipynb)
+- [Expressões Lambda](02_Intermediario/04_lambda.ipynb)
+- [Trabalhando com APIs](02_Intermediario/06_apis.ipynb)
 
 ### 🔥 Avançado
-- Decoradores  
-- Geradores  
-- Context Managers  
-- Metaprogramação  
-- Programação Assíncrona (asyncio)  
-- Testes Automatizados (unittest, pytest)  
-- Padrões de Projeto (Design Patterns)  
-- Otimização e Profiling de Código  
+- [Decoradores](03_Avancado/01_decoradores.ipynb)
+- [Programação Assíncrona](03_Avancado/04_asyncio.ipynb)
+- [Padrões de Projeto](03_Avancado/07_design_patterns.ipynb)
 
----
+## ✨ Diferenciais
+
+✔️ Organização progressiva e intuitiva  
+✔️ Código testado e documentado  
+✔️ Compatível com Python 3.10+  
+✔️ Exemplos replicáveis e modificáveis  
+
+## 🛠️ Começando
+
+
+# Clone o repositório
+git clone https://github.com/Marlon99henrique/Python-Jornada-De-Aprendizado.git
+
+# Acesse o diretório
+cd Python-Jornada-De-Aprendizado
+
+# Instale as dependências (se necessário)
+pip install -r requirements.txt
 
 ## 🌐 Parte do Meu Portfólio
 
@@ -89,11 +80,6 @@ Veja todos os meus projetos no meu perfil:
 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
 📧 Email: seuemail@exemplo.com
 
-## 🛠️ Como Usar
-
-1. **Clone o repositório**
-
-```bash
-git clone https://github.com/seu-usuario/python-do-basico-ao-avancado.git
+## ⭐️ Se este projeto te ajudou, considere dar uma estrela no repositório!
 
 
