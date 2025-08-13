@@ -43,9 +43,10 @@ Este repositório faz parte do meu portfólio técnico, apresentando uma jornada
 ✔️ Exemplos replicáveis e modificáveis  
 
 # 🛠️ Começando
-### 1. Acesse os arquivos de cada aula
+### 1. Acesse os arquivos de cada aula,
+Veja acessando este Github ou baixe os arquivos
 
-#### 2.Clone o repositórioou baixe 
+#### 2.Clone o repositório/ indicado para quem ja tem um conhecimento da area
 git clone https://github.com/Marlon99henrique/Python-Jornada-De-Aprendizado.git
 
 #### Acesse o diretório
