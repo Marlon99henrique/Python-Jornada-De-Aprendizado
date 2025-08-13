@@ -22,7 +22,8 @@ Este repositório faz parte do meu portfólio técnico, apresentando uma jornada
 - [Introdução ao Python](01_Basico/01_introducao.ipynb)
 - [Variáveis e Tipos de Dados](01_Basico/02_variaveis_tipos.ipynb)
 - [Operadores](01_Basico/03_operadores.ipynb)
-- [Estruturas de Controle (condicionais e loops)](01_Basico/04_estruturas_controle.ipynb)
+- [Entrata de dados e listas,tuplas,dicionarios]
+- [Estruturas de Controle (condicionais e loops)](01_Basico/05_estruturas_controle.ipynb)
 - [Funções e Escopo](01_Basico/06_funcoes.ipynb)
 - [Manipulação de Arquivos](01_Basico/09_arquivos.ipynb)
 
