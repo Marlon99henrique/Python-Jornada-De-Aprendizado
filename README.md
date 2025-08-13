@@ -1,7 +1,7 @@
 # Python — Do Básico ao Avançado 🐍  
 📄 **Licença:** MIT  
 
-![Python Banner](https://via.placeholder.com/1200x400/3776AB/FFFFFF?text=Python+Do+Básico+ao+Avançado)  
+ 
 
 ## 🌟 Sobre o Projeto
 
